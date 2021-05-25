@@ -1,7 +1,7 @@
 let config;
 
 config = {
-        port: 50042
+        url: 'http://localhost:3000'
 };
 
 export { config }

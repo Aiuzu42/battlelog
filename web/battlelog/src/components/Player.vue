@@ -60,7 +60,7 @@ export default {
       selectedPhase: '',
       selectedFaction: '',
       selectedSubs: [],
-      url: 'http://localhost:' + config.port
+      url: config.url
     };
   },
   methods: {

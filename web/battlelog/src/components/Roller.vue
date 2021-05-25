@@ -32,7 +32,7 @@ export default {
       modelNumber: 1,
       modelSides: 6,
       results: [],
-      url: 'http://localhost:' + config.port
+      url: config.url
     };
   },
   methods: {
