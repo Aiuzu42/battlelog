@@ -4,9 +4,11 @@ import (
 	ctrls "github.com/aiuzu42/battlelog/pkg/controllers"
 	"github.com/aiuzu42/battlelog/pkg/stratagems"
 	"github.com/gin-gonic/gin"
+	"os"
 )
 
 func main() {
+	port := getPort()
 	stratagems.Load()
 	r := gin.Default()
 	r.Use(CORSMiddleware())
@@ -14,7 +16,14 @@ func main() {
 	r.GET("battlelog/stratagems", ctrls.GetStratagemsController)
 	r.GET("battlelog/stratagems/:name", ctrls.GetStratagemByName)
 	r.GET("battlelog/phases", ctrls.GetPhases)
-	r.Run(":3000")
+	r.Run(port)
+}
+
+func getPort() string {
+	if len(os.Args) < 2 {
+		return ":8080"
+	}
+	return ":" + os.Args[1]
 }
 
 func CORSMiddleware() gin.HandlerFunc {
