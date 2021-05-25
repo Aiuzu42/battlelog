@@ -24,13 +24,15 @@
 
 <script>
 import axios from 'axios';
+import { config } from '../config.js';
 
 export default {
   data() {
     return {
       modelNumber: 1,
       modelSides: 6,
-      results: []
+      results: [],
+      url: 'http://localhost:' + config.port
     };
   },
   methods: {
@@ -41,7 +43,7 @@ export default {
       const request = {
         params: params
       }
-      const data = await axios.get('http://localhost:3000/battlelog/roll', request)
+      const data = await axios.get(this.url + '/battlelog/roll', request)
       if (data.status != 200) {
         return
       }

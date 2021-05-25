@@ -48,6 +48,7 @@
 </template>
 <script>
 import axios from 'axios';
+import { config } from '../config.js';
 
 export default {
   data() {
@@ -58,7 +59,8 @@ export default {
       phases: [],
       selectedPhase: '',
       selectedFaction: '',
-      selectedSubs: []
+      selectedSubs: [],
+      url: 'http://localhost:' + config.port
     };
   },
   methods: {
@@ -85,13 +87,13 @@ export default {
       const request = {
         params: params
       }
-      const responseData = await axios.get('http://localhost:3000/battlelog/stratagems/' + this.selectedFaction, request)
+      const responseData = await axios.get(this.url + '/battlelog/stratagems/' + this.selectedFaction, request)
       this.strats = responseData.data.stratagems
     }
   },
   created() {
-    axios.get('http://localhost:3000/battlelog/phases').then(response => {this.phases = response.data})
-    axios.get('http://localhost:3000/battlelog/stratagems').then(response => {this.factions = response.data})
+    axios.get(this.url + '/battlelog/phases').then(response => {this.phases = response.data})
+    axios.get(this.url + '/battlelog/stratagems').then(response => {this.factions = response.data})
   }
 }
 </script>
