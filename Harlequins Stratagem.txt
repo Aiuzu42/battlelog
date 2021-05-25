@@ -1,0 +1,210 @@
+2CP
+GREAT HARLEQUIN
+Harlequins Stratagem
+One amongst the masque seems different this day, their presence magnified, their skill sublime. Who – or what – now lurks behind their mask?
+Use this Stratagem before the battle. Select a TROUPE MASTER from your army. That unit gains the GREAT HARLEQUIN keyword and the following ability: Will of the Laughing God: In the Fight phase, re-roll hit rolls of 1 for friendly <MASQUE> units that are within 6" of this model.’ You can only use this Stratagem once per battle.
+before
+1CP/3CP
+ENIGMAS OF THE BLACK LIBRARY
+Harlequins Stratagem
+When the need is great and the hour dark, the grim treasures of the Black Library are released into the care of Cegorach’s chosen few.
+Use this Stratagem before the battle. Your army can have one extra Enigma of the Black Library for 1 CP, or two extra Enigmas of the Black Library for 3 CPs. All of the Enigmas of the Black Library that you include must be different and be given to different HARLEQUINS CHARACTERS. You can only use this Stratagem once per battle.
+before
+1CP/3CP
+WEBWAY ASSAULT
+Harlequins Stratagem
+Stealthily slipping from the webway, the players of the Harlequins creep behind enemy lines before they launch their assault.
+Use this Stratagem during deployment. If you spend 1 CP, set up one HARLEQUINS INFANTRY or BIKER unit from your army in the webway instead of placing it on the battlefield. If you spend 3 CPs, set up two such units in the webway instead. Any number of units in the webway can emerge at the end of any of your Movement phases – set each unit up anywhere on the battlefield that is more than 9" from any enemy models. You can only use this Stratagem once per battle.
+deployment
+1CP
+PRISMATIC BLUR
+Harlequins Stratagem
+The Harlequins accelerate into a lightning-fast sprint, weaving and tumbling to magnify the effects of their domino fields.
+Use this Stratagem after a HARLEQUINS unit from your army has Advanced. That unit has a 3+ invulnerable save until the start of your next turn.
+movement
+2CP
+HEROES’ PATH
+Harlequins Stratagem
+The Dance of the Heroes’ Path depicts how overbearing pride led Eldanesh and Ulthanash on a deadly quest into the den of the Prince of the Ygghs.
+Use this Stratagem at the start of a Movement phase in which a DEATH JESTER, a SOLITAIRE and a SHADOWSEER from your army are within 6" of each other. Remove all three models from the battlefield. At the end of that Movement phase, you can set up each model anywhere on the battlefield that is more than 9" from any enemy units.
+movement,enemy-movement
+1CP
+CEGORACH’S JEST
+Harlequins Stratagem
+The Dance of Cegorach’s Jest sees enemy units harried mercilessly unto their absolute destruction.
+Use this Stratagem when an enemy unit Falls Back from a HARLEQUINS unit from your army, after the enemy unit has finished moving. Provided no other enemy units are within 1" of your unit, it can shoot the enemy unit that Fell Back as if it were the Shooting phase.
+enemy-movement
+1CP
+THE HUNDRED SWORDS OF VAUL
+Harlequins Stratagem
+One amongst the hundred swords of Vaul was nothing but a fake. In this dance, so too is one band amongst the Harlequins’ ranks not what it seems.
+Use this Stratagem at the start of the first battle round, before the first turn begins. Select one HARLEQUINS unit from your army. Remove this unit from the battlefield and redeploy it anywhere within your deployment zone. If you select a TRANSPORT, all units embarked inside remain so when it is redeployed. If both armies have units that can redeploy, roll off. The winner chooses whether to place their units first or second. You can only use this Stratagem once per battle.
+start
+1CP
+TORMENTS OF THE FIERY PIT
+Harlequins Stratagem
+This dance sees the suffering of Vaul transformed into incandescent – if fleeting – might.
+Use this Stratagem in the Fight phase, before attacking with a HARLEQUINS CHARACTER from your army that has lost any wounds this battle round. Until the end of the phase, increase the Strength characteristic and Attacks characteristic of that model by 2.
+fight,enemy-fight
+1CP
+VESSEL OF FATE
+Harlequins Stratagem
+Sensing that the moment long foreseen has arrived at last, the Shadowseer casts caution aside and hurls their all into a psychic bombardment against the foe.
+Use this Stratagem in your Psychic phase. A SHADOWSEER from your army can attempt to cast one additional psychic power this phase.
+psychic
+3CP
+WAR DANCERS
+Harlequins Stratagem
+The Harlequins’ steps and strikes flow together into a blur of light as they overwhelm their enemies.
+Use this Stratagem at the end of the Fight phase. Select a HARLEQUINS unit from your army that has already fought this phase. That unit can immediately pile in and fight an additional time.
+fight,enemy-fight
+1CP
+FIRE AND FADE
+Harlequins Stratagem
+Not for the Harlequins the attrition of a drawn-out firefight. They simply strike then vanish like ghosts.
+Use this Stratagem after a HARLEQUINS unit from your army shoots in your Shooting phase. The unit can immediately move 7" as if it were the Movement phase (it cannot Advance as part of this move). However, it cannot charge in the same turn that it does so.
+shooting
+1CP
+DRAMATIC ENTRANCE
+Harlequins Stratagem
+None can match the breathtaking athleticism of the Harlequins.
+Use this Stratagem at the end of your opponent’s Charge phase. A HARLEQUINS CHARACTER from your army that is within 6" of an enemy unit can perform a Heroic Intervention, and move up to 6" when it does so.
+enemy-charge
+1CP
+WARRIOR ACROBATS
+Harlequins Stratagem
+When the moment is right, the Harlequins flow across the battlefield like streaks of coloured light.
+Use this Stratagem in the Movement phase when a HARLEQUINS INFANTRY unit from your army Advances. Add 6" to the unit’s Move characteristic for that Movement phase instead of rolling a dice.
+movement
+1CP
+SHRIEKING DOOM
+Harlequins Stratagem
+Seeing the perfect morbid jest in the offing, the Death Jester takes particular care to place their shots just… so…
+Use this Stratagem before a DEATH JESTER from your army shoots a shrieker cannon or Curtainfall using the weapon’s shrieker profile. Increase the weapon’s Strength characteristic by 1 and its Damage characteristic to D3 until the end of the phase.
+shooting,enemy-charge
+1CP
+ISHA’S WEEPING
+Harlequins Stratagem
+This dance sees the Harlequins respond to their losses with ever more exaggerated grief and wildness, their frantic movements rendering them hard to target.
+Use this Stratagem at the end of any phase. Select a HARLEQUINS unit from your army that suffered casualties during the phase. Improve that unit’s invulnerable save by 1 (to a maximum of 3+) until the end of the turn.
+any
+1CP
+MIRTHLESS HATRED
+Harlequins Stratagem
+The Chaos God Slaanesh is reviled by all Aeldari, who despise his followers with a ferocious loathing. The devotees of the Laughing God, however, harbour a particular hatred for She Who Thirsts.
+Use this Stratagem when a HARLEQUINS unit from your army is chosen to fight. Re-roll failed hit rolls and failed wound rolls for attacks for this unit that target SLAANESH units until the end of the phase.
+fight,enemy-fight
+1CP
+THE LABYRINTH LAUGHS
+Harlequins Stratagem
+Like some living thing, the webway itself spits forth fresh warriors to spite those who have done it harm.
+Use this Stratagem when a WEBWAY GATE from your army is destroyed but before you remove the model from the battlefield. Immediately set up one AELDARI unit from your army that has not yet been deployed from the webway, wholly within 3" of the Webway Gate and not within Engagement Range of any enemy units. After you have done so, remove the Webway Gate from the battlefield as normal. Units set up with this Stratagem can be set up during the first battle round, regardless of any mission rules.
+destroyed
+2CP
+LIGHTNING-FAST REACTIONS
+Harlequins Stratagem
+Harlequins weave and dodge with incredible speed, and can even catch bullets out of the air with mocking ease.
+Use this Stratagem when a HARLEQUINS unit from your army is targeted by a ranged or melee weapon. Subtract 1 from all hit rolls made against that unit for the rest of the phase.
+targeted
+1CP
+HAYWIRE GRENADE
+Harlequins Stratagem
+Haywire grenades send out a powerful electromagnetic pulse that can cripple enemy vehicles.
+Use this Stratagem before a HARLEQUINS model from your army throws a plasma grenade at a VEHICLE unit. You only make a single hit roll for that grenade but, if it hits, the enemy unit suffers D3 mortal wounds instead of the normal damage.
+shooting,enemy-charge
+2CP
+NO PRICE TOO STEEP
+Midnight Sorrow Stratagem
+Death is seen as just another sacrifice to the Midnight Sorrow, one they are ever willing to make in order to defeat the scourge of Chaos once and for all.
+Use this Stratagem when a MIDNIGHT SORROW CHARACTER from your army is slain. Before removing the model as a casualty, it can fight as if it were the Fight phase. If that character was a SOLITAIRE, or it was slain by a CHAOS unit, add 1 to its Strength and Attacks characteristics when resolving that fight.
+destroyed
+1CP
+CAPRICIOUS REFLECTIONS
+Veiled Path Stratagem
+That which is, is not. That which is not, might perhaps be. That which might be is upon you with blade already in hand.
+Use this Stratagem at the end of your opponent’s Charge phase. Select a VEILED PATH unit from your army. That unit can immediately perform a Heroic Intervention as if it were a CHARACTER.
+enemy-charge
+2CP
+MALICIOUS FRENZY
+Frozen Stars Stratagem
+Laughing like lunatics, the Players of the Frozen Stars channel their hatred and hysteria into a burst of martial destruction.
+Use this Stratagem before a FROZEN STARS unit from your army fights in the Fight phase. Until the end of the phase add 1 to wound rolls for attacks by this unit that target enemy INFANTRY, BEASTS or BIKER units.
+fight,enemy-fight
+1CP
+AN EXAMPLE MADE
+Dreaming Shadow Stratagem
+The heroes of the Dreaming Shadow slay their victims with especial vehemence to show the importance of their quest.
+Use this Stratagem in your Shooting phase. Select a DREAMING SHADOW CHARACTER from your army. Until the end of the phase, each successful hit roll made by this model causes 2 hits (hit rolls of 6+ made by this model cause 3 hits on the target instead).
+shooting
+1CP
+SKYSTRIDE
+Soaring Spite Stratagem
+The Harlequins of this masque excel in the Dance of the Weaver Serpents, not even touching the ground as they fight.
+Use this Stratagem just before a SOARING SPITE INFANTRY unit consolidates. Instead of moving towards the nearest enemy model, the unit consolidates up to 6" towards the nearest SOARING SPITE TRANSPORT from your army. If all models in the unit end this move within 3" of the transport, the unit may immediately embark upon it (if it has sufficient capacity remaining) as if it were the Movement phase (and can do so even if they disembarked from the transport during the same turn).
+fight,enemy-fight
+2CP
+THE SILKEN KNIFE
+Silent Shroud Stratagem
+As the Harlequins launch their attack, a pall of terrible silence and suffocating fear falls across the enemy, leaving them numbed and near catatonic.
+Use this Stratagem at the start of the Charge phase. Select a SILENT SHROUD unit from your army. Enemy units cannot fire Overwatch against that unit in this phase.
+charge
+1CP
+WEBWAY AMBUSH
+Harlequins Stratagem
+Webway Gates pose an ever-present threat to the Aeldari’s foes.
+Use this Stratagem at the end of your Movement phase. Choose a WEBWAY GATE from your army. Either two units in a webway spar can emerge from that Webway Gate this turn, or one unit can emerge from that Webway Gate this turn and can be set up wholly within 3" of it and more than 1" away from any enemy models.
+movement
+1CP
+PIVOTAL ROLE
+Harlequins Stratagem
+Certain characters are crucial to the seamless execution of the chosen Saedath. Harlequins assuming such pivotal roles perform with nigh on supernatural grace amidst the fiery limelight of war.
+Use this Stratagem before the battle. Select one TROUPE MASTER, SHADOWSEER, DEATH JESTER or SOLITAIRE model from your army. That model gains one of their respective Pivotal Role abilities. This does not replace an existing ability. Each model from your army can have no more than one Pivotal Role ability, and each Pivotal Role ability models in your army have must be different.
+before
+2CP
+POLYCHROMATIC STORM
+Harlequins Stratagem
+In the breathless heartbeat before battle begins, the Harlequin forces explode into a kaleidoscopic myriad that bewilders the foe as to their true location and numbers.
+Use this Stratagem at the start of the first battle round, before the first turn begins. Select up to three HARLEQUINS units from your army that are on the battlefield. Remove them from the battlefield and set them up again. When setting them up, you can use any abilities or Stratagems that would allow them to be set up in a different location during deployment (e.g. Webway Assault). If both players have abilities that redeploy units, roll off: the winner chooses who redeploys their units first. You can only use this Stratagem once.
+start
+2CP
+MURDEROUS ENTRANCE
+Harlequins Stratagem
+These Harlequins launch themselves into the bloody dance of war with furious vigour, their roles to seize the enemy’s attention through an explosive burst of violence.
+Use this Stratagem in the Fight phase, the first time a HARLEQUINS unit from your army is selected to fight that phase. Until the end of the phase, if that unit made a charge move this turn, add 1 to the Damage characteristic of melee weapons models in that unit are equipped with.
+fight,enemy-fight
+2CP
+THE CURTAIN FALLS
+Harlequins Stratagem
+One moment the Harlequins are a bewildering storm of blades and lashing fists and feet. The next they are gone, vanished behind a veil of illusory terrors.
+Use this Stratagem in the Fight phase, when a HARLEQUINS unit from your army would consolidate. Until the end of the phase, instead of consolidating, that unit can Fall Back or move as if it were your Movement phase (but cannot Advance).
+fight,enemy-fight
+1CP
+TWILIT ENCORE
+Harlequins Stratagem
+The foe may not comprehend their role in the saedath – and may even try to blunder away in confusion and fear – but the steps must be observed to the bloody end.
+Use this Stratagem in your opponent’s Movement phase, when an enemy unit within 1" of a HARLEQUINS TROUPE unit from your army Falls Back. After that enemy unit has moved, that HARLEQUINS TROUPE unit can consolidate up to 6"; each model in that HARLEQUINS TROUPE unit must end that move closer to the closest model from the unit that Fell Back, or, if another enemy unit is now closer, the closest enemy model.
+enemy-movement
+2CP
+THE FOES OF THE MIND
+Harlequins Stratagem
+Stretching out with their otherworldly powers, the Shadowseer plucks images of terror from each enemy’s mind and sets the phantasms whirling in a twisted puppet show to distract and dismay.
+Use this Stratagem at the start of the Shooting or Fight phase. Select one SHADOWSEER from your army. Until the end of the phase, that model’s Shield from Harm ability affects friendly <MASQUE> units, not just friendly <MASQUE> INFANTRY units.
+shooting,fight
+1CP
+MYTHIC ROLE
+Harlequins Stratagem
+Shadowseers can see those moments when the warriors of the now most closely embody the mythic heroes of long ago. They do all they can to aid those who unknowingly don such mantles.
+Use this Stratagem before the battle, if your army includes a SHADOWSEER. Select one AELDARI unit from your army. Each time that unit is chosen to shoot or fight, you can re-roll one hit roll or one wound roll for those attacks. You can only use this Stratagem once.
+before
+1CP
+EYE OF DAMNATION
+Harlequins Stratagem
+Those hapless fools who strike down a Solitaire only doom themselves, for to catch the eye of one so damned is to be tainted by that same dark fate.
+Use this Stratagem when a SOLITAIRE unit from your army is destroyed as a result of an attack made with a melee weapon by an enemy model. That model’s unit suffers D3 mortal wounds. This Stratagem cannot be used in conjunction with the No Price Too Steep Stratagem.
+destroyed
+1CP
+VIRTUOSOS OF THE WEBWAY
+Harlequins Stratagem
+The labyrinthine twists of the webway hold no mystery to the Harlequins of the Laughing God, who step between one realm and the next with insulting ease.
+Use this Stratagem at the end of your Movement phase. Select one HARLEQUINS INFANTRY unit from your army not within 1" of any enemy models. Remove that unit from the battlefield. At the end of your next Movement phase, set up that unit anywhere on the battlefield that is more than 9" from any enemy models.
+movement

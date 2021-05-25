@@ -1,0 +1,210 @@
+1CP/2CP
+DENIZENS OF THE WARP
+Chaos Daemons Stratagem
+Ever lurking in the warp, Daemons will wait until the barriers between realms thin before tearing their way into realspace.
+Use this Stratagem during deployment. If you spent 1 CP, set up one of your DAEMON units that has a Power Rating of 8 or less in the warp instead of placing it on the battlefield. If you spent 2 CPs, you can choose a DAEMON unit that has a Power Rating of 9 or more instead. At the end of any of your Movement phases that unit can tear its way into reality – set it up anywhere on the battlefield that is more than 9" away from any enemy models.
+deployment
+2CP
+DAEMONIC INCURSION
+Chaos Daemons Stratagem
+When the Knights of Titan deploy to battle, it is often to combat a full-blown daemonic invasion.
+Use this Stratagem when one of your DAEMON units (other than a named character) is destroyed by a GREY KNIGHTS unit. The destroyed unit is returned to your army at full strength, and is set up on the battlefield at the end of your next Movement phase, anywhere on the battlefield that is more than 9" from any enemy models. This does not cost you any reinforcement points in a matched play game.
+destroyed
+2CP
+SOUL SACRIFICE
+Chaos Daemons Stratagem
+A daemonic pact of terrible power can be assured for a price…
+Use this Stratagem before a CHAOS CHARACTER from your army attempts to summon a unit of DAEMONS to the battlefield using a Daemonic Ritual. That character suffers D3 mortal wounds, but you can roll up to 4 dice rather than 3 for the summoning roll. In addition, re-roll hit rolls of 1 for the summoned unit while it is within 6" of the character that performed the Daemonic Ritual.
+movement
+1CP/3CP
+REWARDS OF CHAOS
+Chaos Daemons Stratagem
+The Dark Gods sometimes bestow their daemonic lieutenants with powerful artefacts and rewards.
+Use this Stratagem before the battle. Your army can have one extra Hellforged Artefact for 1 CP, or two extra Hellforged Artefacts for 3 CPs. All of the Hellforged Artefacts that you include must be different and be given to different DAEMON CHARACTERS. You can only use this Stratagem once per battle.
+before
+1CP
+DAEMONIC PACT
+Chaos Daemons Stratagem
+Many foul champions are adept at summoning daemonic allies.
+Use this Stratagem after a CHAOS CHARACTER from your army summons a unit of DAEMONS to the battlefield using a Daemonic Ritual. That character can immediately attempt to summon a second unit of Daemons to the battlefield by performing another Daemonic Ritual.
+movement
+1CP
+DAEMONIC POSSESSION
+Chaos Daemons Stratagem
+Every time a psyker draws upon the warp, they disturb its flow and attract the attention of those that dwell within.
+Use this Stratagem when an enemy PSYKER unit suffers Perils of the Warp. That unit suffers 2D3 mortal wounds instead of D3.
+enemy psychic
+2CP
+WARP SURGE
+Chaos Daemons Stratagem
+The winds of the warp blow strong, invigorating daemonkind.
+Use this Stratagem at the start of any phase. Select a unit of DAEMONS from your army; until the end of the phase, you cannot re-roll saving throws for this unit, but its invulnerable save is improved by 1 (to a maximum of 4+).
+any
+1CP
+BANNER OF BLOOD
+Khorne Daemons Stratagem
+This brass standard constantly drips with blood, the smell of which drives Khorne’s Daemons into an unbridled battle-lust.
+Use this Stratagem before the battle. Choose one of your KHORNE models with a Daemonic Icon. That icon is upgraded to a Banner of Blood. In addition to its normal ability, the power of the banner can be used once per battle, just before the bearer’s unit declares a charge. When used, the bearer’s unit can charge 3D6" instead of 2D6".
+before
+2CP
+LOCUS OF WRATH
+Khorne Daemons Stratagem
+Khorne’s wrath empowers those who fight beside his champions.
+Use this Stratagem at the start of any Fight phase. Select a KHORNE DAEMON CHARACTER from your army – until the end of the phase you can re-roll any failed hit rolls made for friendly KHORNE DAEMON units within 6" of that model.
+fight,enemy fight
+3CP
+FRENETIC BLOODLUST
+Khorne Daemons Stratagem
+The bloodlust of Khorne’s Daemons is never sated.
+Use this Stratagem at the end of any Fight phase. Select one of your KHORNE DAEMON units – that unit can immediately fight again.
+fight,enemy fight
+2CP
+REVOLTING REGENERATION
+Nurgle Daemons Stratagem
+As the tolling of bells echoes through the warp, the flesh of Nurgle’s Daemons flows like wax to seal gaping wounds.
+Use this Stratagem at the end of your Movement phase. Select one of your NURGLE DAEMON units. One model in the unit regains D3 lost wounds. If there are no wounded models in the unit, and that unit has suffered any casualties, a single slain model from the unit is returned to play with one wound remaining.
+movement
+1CP
+PLAGUE BANNER
+Nurgle Daemons Stratagem
+A pervasive aura of pestilence surrounds this icon, causing rusted blades to weep with even fouler and more toxic diseases.
+Use this Stratagem before the battle. Choose one of your NURGLE models with a Daemonic Icon. That icon is upgraded to a Plague Banner. In addition to its normal ability, the power of the banner can be used once per battle, just before the bearer’s unit fights. When used, increase the Damage characteristic of all plagueswords carried by the bearer’s unit to 2 until the end of the phase.
+before
+2CP
+LOCUS OF FECUNDITY
+Nurgle Daemons Stratagem
+Wherever Nurgle’s champions walk, disease blooms and maggots hatch from rotten flesh, sustaining his minions.
+Use this Stratagem at the start of any phase. Select a NURGLE DAEMON CHARACTER from your army – until the end of the phase you can re-roll Disgustingly Resilient rolls of 1 made for friendly NURGLE DAEMON units within 6" of that model.
+any
+1CP
+BLASTED STANDARD
+Tzeentch Daemons Stratagem
+So saturated is this icon with the power of change that it is wreathed in warpfire that leaps out to consume Tzeentch’s foes.
+Use this Stratagem before the battle. Choose one of your TZEENTCH models with a Daemonic Icon. That icon is upgraded to a Blasted Standard. In addition to its normal ability, the power of the banner can be used once per battle, at the beginning of any Psychic phase. When used, roll 9 dice; for each roll of 6, the closest visible enemy unit within 9" suffers a mortal wound.
+before
+1CP
+MAGICAL BOON
+Tzeentch Daemons Stratagem
+Arcane knowledge and mystical power have ever been the domain of Tzeentch and his minions.
+Use this Stratagem at the end of your Psychic phase. Select a TZEENTCH DAEMON PSYKER from your army; it can immediately attempt to manifest one additional psychic power this turn.
+psychic
+2CP
+LOCUS OF CONJURATION
+Tzeentch Daemons Stratagem
+Sorcerous power surrounds Tzeentch’s chosen champions.
+Use this Stratagem at the start of your Psychic phase. Select a TZEENTCH DAEMON CHARACTER from your army – until the end of the phase you can re-roll any failed Psychic tests made for friendly TZEENTCH DAEMON units within 6" of that model.
+psychic
+1CP
+LOCUS OF GRACE
+Slaanesh Daemons Stratagem
+Slaanesh’s favoured Daemons lead their minions in an exquisite choreographed dance, every movement of which severs an enemy’s limb or lops off their head.
+Use this Stratagem at the start of any Fight phase. Select a SLAANESH DAEMON CHARACTER from your army – until the end of the phase, each time you make a wound roll of 6+ for a friendly SLAANESH DAEMON unit within 6" of that character, the model that made that attack can immediately make an extra attack against the same target using the same weapon. These bonus attacks cannot themselves generate any further attacks.
+fight,enemy fight
+1CP
+AURA OF ACQUIESCENCE
+Slaanesh Daemons Stratagem
+Dark whispers speak to the minds of those that oppose Slaanesh, promising pleasures should they lower their weapons.
+Use this Stratagem at the start of any Fight phase. Select a SLAANESH DAEMON unit from your army – enemy units within 3" of that unit reduce their Attacks characteristic by 1 (to a minimum of 1) until the end of that phase.
+fight,enemy fight
+1CP
+RAPTUROUS STANDARD
+Slaanesh Daemons Stratagem
+This icon fills all who gaze upon it with such euphoria that they lower their guard and forget to defend themselves from attack.
+Use this Stratagem before the battle. Choose one of your SLAANESH models with a Daemonic Icon. That icon is upgraded to a Rapturous Standard. In addition to its normal ability, the power of the banner can be used once per battle, just before the bearer’s unit fights. When used, you can re-roll all failed hit rolls made for the bearer’s unit until the end of the phase.
+before
+1CP
+RAZOR-SHARP CARESS
+Slaanesh Daemons Stratagem
+Gorging on their prey’s emotions, Daemonettes rake their talons through the stoutest armour.
+Use this Stratagem in the Fight phase. Select one DAEMONETTE INFANTRY unit from your army. Until the end of the phase, the Armour Penetration characteristic of melee weapons models in that unit are equipped with is improved by 1 (e.g. AP -1 becomes AP -2).
+fight,enemy fight
+1CP
+SINUOUS UNDULATION
+Slaanesh Daemons Stratagem
+Swift beyond mortal comprehension, Steeds of Slaanesh flow like a serpentine blur, near impossible to hit.
+Use this Stratagem in your opponent’s Shooting phase when a DAEMONETTE CAVALRY unit from your army is chosen as the target of an attack. Until the end of the phase, when resolving an attack made against that unit, subtract 1 from the hit roll.
+enemy shooting
+1CP
+SONG OF DISCORDANT DESPAIR
+Slaanesh Daemons Stratagem
+The keening psychic call of hunting Fiends disturbs mental equilibrium, inducing terror and despair.
+Use this Stratagem at the start of the Morale phase. Select one enemy unit within 6" of a FIENDS unit from your army. Until the end of the phase, subtract 2 from that enemy unit’s Leadership characteristic.
+morale,enemy morale
+1CP
+FLENSING IMPACT
+Slaanesh Daemons Stratagem
+Every surface of these dread pain engines is covered in a riot of blades, their merest cut inflicting agony.
+Use this Stratagem in the Fight phase. Select one DAEMONETTE CHARIOT unit from your army that made a charge move this turn. Until the end of the phase, when resolving an attack made by a model in that unit, an unmodified hit roll of 6 scores 1 additional hit.
+fight,enemy fight
+1CP
+RUST AND DECAY
+Nurgle Daemons Stratagem
+Vectors of every contagion from across time and space, Daemon-forged plagueswords are generous to all.
+Use this Stratagem in the Fight phase. Select one PLAGUEBEARER INFANTRY unit from your army. Until the end of the phase, when resolving an attack made by a model in that unit, an unmodified hit roll of 6 automatically scores a hit and successfully wounds the target (do not make a wound roll).
+fight,enemy fight
+1CP
+PUTRID DEMISE
+Nurgle Daemons Stratagem
+Nurgle’s favoured erupt in a putrid shower upon death.
+Use this Stratagem when a PLAGUEBEARER CAVALRY model from your army is destroyed. Before removing that model, roll one D6 for every unit within 6" (excluding NURGLE units). On a 2+, the unit being rolled for suffers 1 mortal wound.
+destroyed
+1CP
+ACIDIC SLOBBER
+Nurgle Daemons Stratagem
+With imbecilic affection, Beasts shower their ‘friends’ in bile so rotten there is soon no distinguishing the victim.
+Use this Stratagem in the Fight phase. Select one BEASTS OF NURGLE unit from your army. Until the end of the phase, when resolving an attack made by a model in that unit, an unmodified wound roll of 6 inflicts 1 mortal wound on the target in addition to any other damage.
+fight,enemy fight
+1CP
+NURGLING INFESTATION
+Nurgle Daemons Stratagem
+Nurgle’s mites are as numerous as his blessings.
+Use this Stratagem at the end of any phase except the Morale phase. Select one NURGLING unit from your army. Roll one D6 for each model in that unit that was destroyed that phase. For each roll of 5+, return one destroyed model to that unit with all of its wounds remaining, placing them in unit coherency (if a model cannot be placed in this way, it is not returned to the battlefield).
+any
+3CP
+RAGE ETERNAL
+Khorne Daemons Stratagem
+A rage as limitless as that of Khorne’s soldiers overcomes even death’s boundary in its intensity.
+Use this Stratagem in the Fight phase when a model in a BLOODLETTER INFANTRY unit from your army is destroyed. Until the end of the phase, roll one D6 each time a model from that unit is destroyed; on a 4+, that model is not removed until after all of the attacking unit’s close combat attacks have been resolved, and the destroyed model can make all of its close combat attacks against the unit that destroyed it before being removed (this model can make these close combat attacks even if it would not normally be able to target that unit).
+fight,enemy fight
+1CP
+BRASS STAMPEDE
+Khorne Daemons Stratagem
+Few things can withstand the thunderous and bloody charge of Khorne’s chosen knights.
+Use this Stratagem in your Charge phase when a BLOODLETTER CAVALRY unit from your army finishes a charge move. For each model in that unit, you can select one enemy unit within 1" of that model and roll one D6; on a 2+, that enemy unit suffers 1 mortal wound; on a 6, that enemy unit suffers D3 mortal wounds. If these mortal wounds destroy all enemy units within 1" of your unit, it can, if you wish, immediately declare another charge.
+charge
+1CP
+THE SCENT OF BLOOD
+Khorne Daemons Stratagem
+The rich odour of freshly spilled blood will draw loping Flesh Hounds from the foot of Khorne’s throne itself.
+Use this Stratagem in your Charge phase. Select one FLESH HOUNDS unit from your army. That unit can be chosen to charge with this phase even if it Advanced this turn. In addition, add 2 to the result of that charge roll if any enemy models (excluding VEHICLES) have been destroyed this turn.
+charge
+1CP
+BOUND IN BRASS AND BONE
+Khorne Daemons Stratagem
+Khorne’s constructs manifest as armour-plated horrors, their dense forms proof against the worst attacks.
+Use this Stratagem in any phase when a BLOODLETTER CHARIOT unit from your army is chosen as the target of an attack. Until the end of the phase, when resolving an attack made against that unit, halve the damage inflicted (rounding up).
+targeted
+1CP
+MINIONS OF MAGIC
+Tzeentch Daemons Stratagem
+Sorcery is intrinsic to the gangling servants of Tzeentch, fate and mutating flames theirs to manipulate.
+Use this Stratagem at the start of your Psychic phase. Select one HORRORS INFANTRY unit from your army. The first time that unit attempts to manifest a psychic power this phase, do not roll any dice for its Psychic test – instead, assume a 9 was rolled for that Psychic test.
+psychic
+1CP
+WARP JAWS
+Tzeentch Daemons Stratagem
+Burning maws capable of boring through the hull of stranded starships are little hindered by thick hides.
+Use this Stratagem in the Fight phase. Select one SCREAMERS unit from your army. Until the end of the phase, when resolving an attack made by a model in that unit against a MONSTER or VEHICLE unit, add 1 to the wound roll.
+fight,enemy fight
+1CP
+FLAMES OF MUTATION
+Tzeentch Daemons Stratagem
+A cloud of iridescent light or a charred lump of meat – none foresee the fate of those touched by warpfire.
+Use this Stratagem in your Shooting phase. Select one FLAMER unit from your army. Until the end of the phase, when resolving an attack made by a model in that unit, an unmodified wound roll of 6 inflicts 1 mortal wound on the target in addition to any other damage.
+shooting
+1CP
+WARP PORTAL
+Tzeentch Daemons Stratagem
+Like a shimmering patch of wrong sky, a floating doorway disgorges soaring Daemons wreathed in fire.
+Use this Stratagem in your Movement phase. Select one FLUXMASTER, FATESKIMMER or BURNING CHARIOT model from your army. Remove that model from the battlefield and set it back up anywhere on the battlefield that is more than 9" from any enemy models. This model cannot move further this phase.
+movement
