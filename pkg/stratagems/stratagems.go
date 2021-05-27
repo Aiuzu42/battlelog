@@ -13,7 +13,7 @@ var (
 	factions  = []Faction{}
 	factionSt = []FactionStratagems{}
 
-	phases = [...]string{"any", "before", "deployment", "start", "command", "movement", "enemy movement", "psychic", "enemy psychic", "shooting", "enemy shooting", "targeted", "charge", "enemy charge", "fight", "enemy fight", "morale", "enemy morale", "destroyed", "enemy destroyed", "end"}
+	phases = [...]string{"any", "before", "deployment", "start", "command", "movement", "enemy movement", "psychic", "enemy psychic", "shooting", "enemy shooting", "charge", "enemy charge", "fight", "enemy fight", "morale", "enemy morale", "end"}
 )
 
 const (
@@ -22,7 +22,7 @@ const (
 
 type Stratagem struct {
 	Name        string   `json:"name"`
-	Sub string `json:"sub"`
+	Sub         string   `json:"sub"`
 	Type        string   `json:"type"`
 	Fluff       string   `json:"fluff"`
 	Description string   `json:"description"`
@@ -118,7 +118,7 @@ func in(s string, a []string) bool {
 	return false
 }
 
-func sliceIn(s[] string, a []string) bool {
+func sliceIn(s []string, a []string) bool {
 	for _, se := range s {
 		for _, ae := range a {
 			if se == ae {
@@ -128,7 +128,6 @@ func sliceIn(s[] string, a []string) bool {
 	}
 	return false
 }
-
 
 func filterBySubfaction(b string, st string, s []string) bool {
 	if b == st {
@@ -183,7 +182,7 @@ func GetFactionStratagems(n string, s []string, p []string) FactionStratagems {
 }
 
 func ValidatePhase(p string) bool {
-	return in(p,phases[:])
+	return in(p, phases[:])
 }
 
 func GetPhases() []string {
