@@ -22,6 +22,7 @@ const (
 
 type Stratagem struct {
 	Name        string   `json:"name"`
+	Sub string `json:"sub"`
 	Type        string   `json:"type"`
 	Fluff       string   `json:"fluff"`
 	Description string   `json:"description"`
@@ -71,9 +72,9 @@ func parseFile(p string) (Faction, FactionStratagems, error) {
 		s.Name = lines[i+1]
 		s.Description = lines[i+4]
 		s.Fluff = lines[i+3]
-		s.Type = lines[i+2]
-		if lines[i+2] != f.Name {
-			f.Subs = addAsSet(f.Subs, lines[i+2])
+		s.Sub, s.Type = parseSubAndType(lines[i+2])
+		if s.Sub != f.Name {
+			f.Subs = addAsSet(f.Subs, s.Sub)
 		}
 		s.CPCost = lines[i]
 		s.Tags = strings.Split(lines[i+5], ",")
@@ -146,6 +147,15 @@ func filterByPhase(sp []string, rp []string) bool {
 	return sliceIn(sp, rp)
 }
 
+func parseSubAndType(s string) (string, string) {
+	sp := strings.Split(s, "%")
+	if len(sp) > 1 {
+		return sp[0], sp[1]
+	} else {
+		return sp[0], ""
+	}
+}
+
 func GetAllStratagemFactions() []Faction {
 	return factions
 }
@@ -162,7 +172,7 @@ func GetFactionStratagems(n string, s []string, p []string) FactionStratagems {
 		if factionSt[i].Name == n {
 			fs := FactionStratagems{Name: factionSt[i].Name, Stratagems: []Stratagem{}}
 			for _, st := range factionSt[i].Stratagems {
-				if filterBySubfaction(n, st.Type, s) && filterByPhase(st.Tags, p) {
+				if filterBySubfaction(n, st.Sub, s) && filterByPhase(st.Tags, p) {
 					fs.Stratagems = append(fs.Stratagems, st)
 				}
 			}

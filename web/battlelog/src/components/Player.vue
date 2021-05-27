@@ -32,7 +32,7 @@
             <td style="width: 24px"></td>
             <td bgcolor="#d3d3d3">
               <p class="stratName">{{ strat.name }}</p>
-              <p class="stratFaction">{{ strat.type }}</p>
+              <p class="stratFaction">{{ strat.sub }} {{ strat.type }}</p>
               <p class="stratLegend"> {{ strat.fluff }}</p>
               {{ strat.description }}
               <p class="stratName">{{ strat.cp_cost }}</p>
@@ -101,5 +101,38 @@ export default {
 .column {
   float: left;
   width: 50%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.collapse {
+  border-collapse: collapse;
+}
+.stratName {
+  font-size: 1.54em;
+  font-family: ConduitITC,charcoal,arial black;
+  font-weight: bold;
+  text-align: center;
+}
+.stratFaction {
+  padding: 0;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+}
+.stratLegend {
+  padding: 0 0 6px 0;
+  font-style: italic;
+  text-align: center;
+}
+div {
+  display: block;
+}
+.breakInsideAvoid {
+  break-inside: avoid;
+  page-break-inside: avoid;
+  -webkit-column-break-inside: avoid;
 }
 </style>
