@@ -15,7 +15,7 @@ func main() {
 	r.GET("battlelog/roll", ctrls.RollController)
 	r.GET("battlelog/stratagems", ctrls.GetStratagemsController)
 	r.GET("battlelog/stratagems/:name", ctrls.GetStratagemByName)
-	r.GET("battlelog/phases", ctrls.GetPhases)
+	r.GET("battlelog/phases/:name", ctrls.GetPhases)
 	r.Run(port)
 }
 

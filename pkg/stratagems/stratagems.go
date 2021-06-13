@@ -12,8 +12,6 @@ import (
 var (
 	factions  = []Faction{}
 	factionSt = []FactionStratagems{}
-
-	phases = [...]string{"any", "before", "deployment", "start", "command", "movement", "enemy movement", "psychic", "enemy psychic", "shooting", "enemy shooting", "charge", "enemy charge", "fight", "enemy fight", "morale", "enemy morale", "end"}
 )
 
 const (
@@ -36,8 +34,9 @@ type FactionStratagems struct {
 }
 
 type Faction struct {
-	Name string   `json:"name"`
-	Subs []string `json:"subs"`
+	Name   string   `json:"name"`
+	Subs   []string `json:"subs"`
+	Phases []string `json:"phases"`
 }
 
 func Load() {
@@ -78,6 +77,7 @@ func parseFile(p string) (Faction, FactionStratagems, error) {
 		}
 		s.CPCost = lines[i]
 		s.Tags = strings.Split(lines[i+5], ",")
+		f.Phases = addSliceAsSet(f.Phases, s.Tags)
 		fs.Stratagems = append(fs.Stratagems, s)
 	}
 	return f, fs, nil
@@ -109,6 +109,13 @@ func addAsSet(set []string, e string) []string {
 	return append(set, e)
 }
 
+func addSliceAsSet(set []string, e []string) []string {
+	for _, ele := range e {
+		set = addAsSet(set, ele)
+	}
+	return set
+}
+
 func in(s string, a []string) bool {
 	for _, e := range a {
 		if e == s {
@@ -138,9 +145,6 @@ func filterBySubfaction(b string, st string, s []string) bool {
 
 func filterByPhase(sp []string, rp []string) bool {
 	if len(rp) == 0 {
-		return true
-	}
-	if len(sp) > 0 && sp[0] == "any" {
 		return true
 	}
 	return sliceIn(sp, rp)
@@ -181,10 +185,20 @@ func GetFactionStratagems(n string, s []string, p []string) FactionStratagems {
 	return FactionStratagems{}
 }
 
-func ValidatePhase(p string) bool {
-	return in(p, phases[:])
+func ValidatePhase(p string, name string) bool {
+	for _, f := range factions {
+		if name == f.Name {
+			return in(p, f.Phases)
+		}
+	}
+	return false
 }
 
-func GetPhases() []string {
-	return phases[0:]
+func GetPhases(name string) []string {
+	for _, f := range factions {
+		if name == f.Name {
+			return f.Phases
+		}
+	}
+	return []string{}
 }

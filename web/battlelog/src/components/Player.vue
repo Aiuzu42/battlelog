@@ -70,6 +70,7 @@ export default {
         if (this.factions[i].name == this.selectedFaction) {
           console.log(this.factions[i].subs)
           this.subs = this.factions[i].subs
+          this.phases = this.factions[i].phases
         }
       }
     },
@@ -92,7 +93,6 @@ export default {
     }
   },
   created() {
-    axios.get(this.url + '/battlelog/phases').then(response => {this.phases = response.data})
     axios.get(this.url + '/battlelog/stratagems').then(response => {this.factions = response.data})
   }
 }
@@ -112,7 +112,7 @@ export default {
 }
 .stratName {
   font-size: 1.54em;
-  font-family: ConduitITC,charcoal,arial black;
+  font-family: ConduitITC,charcoal,arial #000000;
   font-weight: bold;
   text-align: center;
 }

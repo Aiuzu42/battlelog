@@ -31,7 +31,7 @@ func GetStratagemByName(c *gin.Context) {
 	name := c.Param("name")
 	phases := c.QueryArray("phase")
 	for _, p := range phases {
-		if !stratagems.ValidatePhase(p) {
+		if !stratagems.ValidatePhase(p, name) {
 			phaseError := "Invalid phase: " + p
 			c.JSON(http.StatusBadRequest, gin.H{"error": phaseError})
 			return
@@ -46,5 +46,6 @@ func GetStratagemByName(c *gin.Context) {
 }
 
 func GetPhases(c *gin.Context) {
-	c.JSON(http.StatusOK, stratagems.GetPhases())
+	name := c.Param("name")
+	c.JSON(http.StatusOK, stratagems.GetPhases(name))
 }
